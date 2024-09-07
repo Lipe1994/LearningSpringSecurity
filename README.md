@@ -1,4 +1,4 @@
-# Projeto: Estudo de Programação Java Moderna e Spring Security
+# Projeto: Estudo de Programação Java Moderno e Spring Security
 
 Este repositório foi criado como parte de uma experiência para aprofundar meus conhecimentos em **Java** e **Spring Security**. A implementação segue o tutorial do YouTube, produzido por **Giuliana Bezerra**, que pode ser acessado [neste link](https://www.youtube.com/watch?v=kEJ8a1w4a2Q&list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ&index=3).
 
